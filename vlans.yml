@@ -11,8 +11,6 @@ vlans:
   - id: 50
     name: Guest
 
-  - id: 100
-    name: Maher
 switches:
   - leaf1
   - leaf2
